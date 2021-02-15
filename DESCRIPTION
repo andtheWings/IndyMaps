@@ -1,0 +1,10 @@
+Package: IndyMaps
+Type: Package
+Title: Functions for building maps around the Indianapolis, IN metro area
+Version: 0.0.0.9000
+Author: Daniel P. Riggins
+Maintainer: Daniel P. Riggins <daniel.riggins@protonmail.com>
+Description: Basemaps and helper functions built on Leaflet and Mapdeck
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
