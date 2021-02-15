@@ -4,7 +4,10 @@
 \alias{make_Indy_leaflet}
 \title{Make a leaflet basemap of Indianapolis, IN}
 \usage{
-make_Indy_leaflet()
+make_Indy_leaflet(df)
+}
+\arguments{
+\item{df}{A dataframe to be used in the map function}
 }
 \value{
 A leaflet htmlwidget

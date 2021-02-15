@@ -1,5 +1,7 @@
 #' Make a leaflet basemap of Indianapolis, IN
 #'
+#'@param df A dataframe to be used in the map function
+#'
 #' @return A leaflet htmlwidget
 #' @export
 #'
