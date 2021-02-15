@@ -8,3 +8,6 @@ Description: Basemaps and helper functions built on Leaflet and Mapdeck
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr
